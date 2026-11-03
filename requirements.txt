@@ -1,0 +1,10 @@
+neo4j
+python-dotenv
+tavily-python
+groq
+sentence-transformers
+pydantic
+streamlit
+pyvis
+langchain-text-splitters
+pypdf
