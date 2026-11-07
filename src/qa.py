@@ -18,7 +18,8 @@ Rules:
   Cite a source as [1] or [2] right after the claim it supports, always with plain square brackets.
 - Graph facts help you connect ideas, but any claim about results, numbers, authors, dates,
   or what was evaluated must be supported by a cited passage. If only a graph fact supports
-  it, say that the information comes from the knowledge graph and no passage confirms it.
+  a claim, write it with a hedge such as "reportedly" and say it is not confirmed in the
+  retrieved sources. Add no citation to it, and never write the words "knowledge graph" or "graph".
 - APPLIED_TO means a method was applied to a model or dataset. It does NOT mean it was
   evaluated on it. Only say "evaluated on" when a passage or an EVALUATED_ON fact says so.
 - If the context does not contain enough to answer part of the question, say plainly which part is missing.
